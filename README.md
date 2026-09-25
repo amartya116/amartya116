@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=200&section=header&text=Your%20Name&fontSize=48&fontColor=c0caf5&fontAlignY=36&desc=C%2B%2B%20%C2%B7%20AI%20Engineering%20%C2%B7%20Full-Stack%20%C2%B7%20Built%20from%20scratch&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=200&section=header&text=Amartya%20Dudhe&fontSize=48&fontColor=c0caf5&fontAlignY=36&desc=C%2B%2B%20%C2%B7%20AI%20Engineering%20%C2%B7%20Full-Stack%20%C2%B7%20Built%20from%20scratch&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&lines=Built+MiniPyTorch+from+scratch+in+C%2B%2B;SIMD+(AVX2)+%E2%80%A2+performance+engineering;RAG+%E2%80%A2+MCP+servers+%E2%80%A2+voice+assistants;Full-stack+SaaS+with+MERN;Next%3A+robotics+%E2%80%A2+embedded+%E2%80%A2+CS+for+science" alt="Typing SVG"/>
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="followers"/>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=7aa2f7&style=flat-square" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/amartya116?label=Followers&style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=amartya116&label=Profile%20views&color=7aa2f7&style=flat-square" alt="profile views"/>
 
 </div>
 
@@ -17,7 +17,7 @@ I'm a software engineer who likes to understand things at the deepest level, and
 
 ```cpp
 struct Engineer {
-    std::string name     = "Your Name";
+    std::string name     = "Amartya Dudhe";
     std::string role     = "Software Engineer · AI · Systems · Full-Stack";
     std::string approach = "Understand it deeply by building it from scratch";
 
@@ -95,7 +95,9 @@ struct Engineer {
 
 | Project | What it is |
 |:--|:--|
-| [**MiniPyTorch**](https://github.com/YOUR_USERNAME/minipytorch) | A PyTorch-style deep learning library written from scratch in C++, optimized with SIMD (AVX2) vectorization and other low-level techniques |
+| [**MiniPyTorch**](https://github.com/amartya116/minipytorch) | A PyTorch-style deep learning library written from scratch in C++ and Python, optimized with SIMD (AVX2) vectorization and other low-level techniques |
+| [**X-ray pneumonia detection**](https://github.com/amartya116/x-ray-pneumonia-lung-detection) | Deep learning model that detects pneumonia from chest X-ray images |
+| [**Automated hydroponics system**](https://github.com/amartya116/automated-Hydroponics-system) | Automation system for hydroponic plant growing |
 | **RAG & MCP servers** | Retrieval-augmented generation pipelines and Model Context Protocol servers that give LLMs access to real tools and data |
 | **Voice assistant** | Voice-driven AI assistant combining speech and LLMs |
 | **SaaS CRM** | CRM software delivered as SaaS, built on the MERN stack |
@@ -126,10 +128,10 @@ struct Engineer {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=amartya116&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amartya116&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=amartya116&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 </div>
 
@@ -139,10 +141,7 @@ struct Engineer {
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+<a href="mailto:amartyadudhe13@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
